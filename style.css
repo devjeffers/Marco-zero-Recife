@@ -20,6 +20,95 @@ header img {
     
 }
 
+#img-page img {
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 100px;
+    margin-left: auto;
+        
+}
+
+#text-p {
+    display: flex;
+    justify-content: flex-end;
+    text-align: justify;
+    margin-left: 25%;
+}
+
+#text-p a {
+    display: flex;
+    justify-content: center;
+    margin-left: 78%;
+    border-radius: 10px;
+    border: solid;
+
+}
+
+#img-pg {
+    margin-right: 50%;
+    text-align: justify;
+
+}
+
+#img-pg img {
+    width: 80%;
+    border-radius: 10px;
+}
+
+#img-pgg img {
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 100px;
+    margin-left: auto;
+    width: 80%;
+}
+
+#img-pgg p {
+    display: flex;
+    justify-content: flex-end;
+    text-align: justify;
+    margin-left: 20%;
+}
+
+#img-pggg img {
+    display: flex;
+    justify-content: center;
+    border-radius: 100px;
+    margin: auto;
+    width: 80%;
+    
+}
+
+#img-pggg p {
+    display: flex;
+    border-radius: 100px;
+    margin: auto;
+    width: 80%;
+    text-align: justify;
+    padding-bottom: 5px;
+
+}
+
+#text-b {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+#img-end img {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.text-end {
+    display: flex;
+    direction: ;
+
+}
+
 header h1 , h2 , h3{
     display: flex;
     justify-content: center;
@@ -30,9 +119,23 @@ header nav ul a {
     justify-content: center;
     text-decoration: none;
     color: antiquewhite;
-  
+
 }
 
+header div img {
+    border-radius: 100px;
+    width: 35%;
+    
+}
+
+header div ul a {
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-radius: 50px;
+    width: 50px;
+    margin: auto; 
+}
 
 footer h3 {
     display: flex;
@@ -57,4 +160,13 @@ footer h4 {
     justify-content: center;
     
 
+}
+
+footer div ul a {
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-radius: 50px;
+    width: 50px;
+    margin: auto; 
 }
